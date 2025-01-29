@@ -1,12 +1,13 @@
 {
   "name": "koishi-plugin-random-yuzusoft-linestamp",
   "description": "随机柚子社LINE表情",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib",
-    "dist"
+    "dist",
+    "stamps"
   ],
   "contributors": [
     "xiaozhedesu <xiaozhedesu0219@outlook.com>"
