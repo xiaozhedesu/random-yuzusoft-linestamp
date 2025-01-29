@@ -20,6 +20,7 @@ const stampsInfo = [
   { name: 'yuzusoft-riddlejoker', length: 40 },
   { name: 'yuzusoft-cafestella', length: 40 },
   { name: 'yuzusoft-tenshisouzou', length: 40 },
+  { name: 'yuzusoft-tenshisouzou2', length: 40 },
 ];
 
 export function apply(ctx: Context, config: Config) {
